@@ -1,1 +1,1 @@
-VERCEL_TOKEN=你的 Token
+https://github.com/volume57819-stack/chat-booster/commit/40688bc2bbf93cc29b739b7300bb20840b687c63
