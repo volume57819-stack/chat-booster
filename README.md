@@ -1,1 +1,3 @@
-https://github.com/volume57819-stack/chat-booster/commit/40688bc2bbf93cc29b739b7300bb20840b687c63
+git clone reply_ai_repo.bundle .
+npm ci
+npx playwright install --with-deps
